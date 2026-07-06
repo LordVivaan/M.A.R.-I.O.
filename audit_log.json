@@ -1,1 +1,7 @@
 {"timestamp":"2026-07-06T14:48:12.869Z","username":"alice_member","role":"member","action":"USER_LOGIN","details":{"name":"Alice Chen"}}
+{"timestamp":"2026-07-06T15:39:14.762Z","username":"alice_member","role":"member","action":"USER_LOGIN","details":{"name":"Alice Chen"}}
+{"timestamp":"2026-07-06T15:41:13.244Z","username":"alice_member","role":"member","action":"ORDER_CREATE","details":{"order_id":"PO-2026-3G32DN","component_id":"CAP-100NF-0402","total_price":4,"status":"approved"}}
+{"timestamp":"2026-07-06T15:41:40.604Z","username":"alice_member","role":"member","action":"ORDER_CREATE","details":{"order_id":"PO-2026-JLTJ5Y","component_id":"CAP-100NF-0402","total_price":2500005000,"status":"pending_approval"}}
+{"timestamp":"2026-07-06T15:42:29.355Z","username":"alice_member","role":"member","action":"QC_PASS","details":{"order_id":"PO-2026-3G32DN","component_id":"CAP-100NF-0402","batch":"BATCH-2026-X91"}}
+{"timestamp":"2026-07-06T15:42:32.158Z","username":"alice_member","role":"member","action":"QC_PASS","details":{"order_id":"PO-2026-A1D8F","component_id":"IC-STM32F4","batch":"BATCH-2026-X91"}}
+{"timestamp":"2026-07-06T15:42:46.603Z","username":"alice_member","role":"member","action":"STOCK_INTERNAL","details":{"component_id":"RES-10K-0603","qty":100,"from_location_id":"WH-MAIN-INCOMING","to_location_id":"WH-MAIN-ZONE-B","old_stock":50000,"new_stock":50000}}

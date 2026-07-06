@@ -120,10 +120,10 @@ export default function App() {
             <Lock className="w-6 h-6" />
           </div>
           <h2 className="mt-6 text-center text-3xl font-display font-extrabold text-slate-900 tracking-tight">
-            Factory Supply Chain Console
+            M.A.R.&I.O. System Console
           </h2>
           <p className="mt-2 text-center text-xs text-slate-500 max-w-sm mx-auto font-mono">
-            Brain vs. Muscle Procurement & Logistics Gate
+            Modern Automated Reordering & Inventory Operations
           </p>
         </div>
 
@@ -148,9 +148,9 @@ export default function App() {
                   }}
                   className="w-full px-3.5 py-2.5 border border-slate-200 bg-white rounded-lg text-sm outline-none focus:border-indigo-500 transition-colors"
                 >
-                  <option value="alice_member">Alice Chen (Procurement Specialist)</option>
-                  <option value="bob_lead">Bob Jenkins (Supply Chain Lead)</option>
-                  <option value="charlie_director">Charlie Smith (VP Procurement & Operations)</option>
+                  <option value="alice_member">Alice Chen (Inventory Specialist)</option>
+                  <option value="bob_lead">Bob Jenkins (M.A.R.&I.O. Lead)</option>
+                  <option value="charlie_director">Charlie Smith (Director of Operations)</option>
                 </select>
               </div>
 
@@ -206,15 +206,15 @@ export default function App() {
       <aside className="w-full md:w-64 bg-slate-900 flex flex-col shrink-0 text-slate-400 border-r border-slate-800">
         <div className="p-6 flex-1 flex flex-col">
           <div className="flex items-center gap-2 mb-8">
-            <div className="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center text-white font-bold font-display">P</div>
-            <span className="text-white font-display font-semibold tracking-tight uppercase text-sm italic">ProcureFlow AI</span>
+            <div className="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center text-white font-bold font-display">M</div>
+            <span className="text-white font-display font-semibold tracking-tight uppercase text-sm italic">M.A.R.&I.O. System</span>
           </div>
           
           <nav className="space-y-1">
             <div className="px-3 py-2 text-xs font-semibold text-slate-500 uppercase tracking-wider mb-2">Muscle (Automations)</div>
             {[
               { id: "inventory", label: "Inventory Ledger", icon: Layers },
-              { id: "approvals", label: "Procurements & HITL", icon: FileCheck },
+              { id: "approvals", label: "M.A.R.&I.O. Approvals", icon: FileCheck },
               { id: "receipts", label: "QC Inspection Workstation", icon: ShieldAlert },
               { id: "warehouse", label: "Warehouse & Logistics", icon: MapPin },
             ].map(tab => {
@@ -278,7 +278,7 @@ export default function App() {
         {/* Header bar */}
         <header className="h-16 border-b border-slate-200 bg-white flex items-center justify-between px-8 shrink-0">
           <div className="flex items-center gap-4">
-            <h1 className="text-sm font-bold text-slate-800 uppercase tracking-wider font-display">Supply Chain Dashboard</h1>
+            <h1 className="text-sm font-bold text-slate-800 uppercase tracking-wider font-display">M.A.R.&I.O. System Dashboard</h1>
             <span className="px-2 py-0.5 bg-slate-100 border border-slate-200 text-slate-500 text-[9px] rounded uppercase font-bold">Production Active</span>
           </div>
           

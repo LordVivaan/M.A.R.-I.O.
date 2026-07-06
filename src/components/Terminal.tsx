@@ -9,7 +9,7 @@ export default function Terminal({ userSession }: TerminalProps) {
   const [command, setCommand] = useState("python cli.py inventory");
   const [currentDir, setCurrentDir] = useState(".");
   const [logs, setLogs] = useState<string[]>([
-    "Electronics Factory Procurement Terminal v1.2.0 (Stateful Linux Sandboxed Environment)",
+    "M.A.R.&I.O. System Command Terminal v2.0.0 (Stateful Linux Sandboxed Environment)",
     "Isolated workspace container established. Connected to synchronized SQLite database.",
     "Type 'python cli.py --help', 'ls -la', 'cat README.md', 'pwd', 'mkdir subfolder', or 'cd'.",
     "--------------------------------------------------------------------------------"

@@ -2,8 +2,6 @@
 <img width="1200" height="475" alt="Banner" src="/assets/GothamNeedsUs.png" />
 </div>
 
-# view app at 
-
 ## Run Locally
 
 **Prerequisites:**  Node.js

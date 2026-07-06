@@ -1,6 +1,6 @@
 {
-  "name": "Procurement & Supply Chain System",
-  "description": "Multi-Agent Procurement and Supply Chain Logistics System with specialized AI agents, inventory tracking, quality control, approvals, and an interactive terminal controller.",
+  "name": "M.A.R.&I.O. System",
+  "description": "Modern Automated Reordering & Inventory Operations System. Featuring real-time component tracing, multi-zone warehouse routing, dynamic cycle-counting calibration, and automated approvals.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
