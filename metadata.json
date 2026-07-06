@@ -1,0 +1,6 @@
+{
+  "name": "Procurement & Supply Chain System",
+  "description": "Multi-Agent Procurement and Supply Chain Logistics System with specialized AI agents, inventory tracking, quality control, approvals, and an interactive terminal controller.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
