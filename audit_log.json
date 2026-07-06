@@ -5,3 +5,4 @@
 {"timestamp":"2026-07-06T15:42:29.355Z","username":"alice_member","role":"member","action":"QC_PASS","details":{"order_id":"PO-2026-3G32DN","component_id":"CAP-100NF-0402","batch":"BATCH-2026-X91"}}
 {"timestamp":"2026-07-06T15:42:32.158Z","username":"alice_member","role":"member","action":"QC_PASS","details":{"order_id":"PO-2026-A1D8F","component_id":"IC-STM32F4","batch":"BATCH-2026-X91"}}
 {"timestamp":"2026-07-06T15:42:46.603Z","username":"alice_member","role":"member","action":"STOCK_INTERNAL","details":{"component_id":"RES-10K-0603","qty":100,"from_location_id":"WH-MAIN-INCOMING","to_location_id":"WH-MAIN-ZONE-B","old_stock":50000,"new_stock":50000}}
+{"timestamp":"2026-07-06T16:06:23.704Z","username":"MARIO_override","role":"director","action":"ORDER_APPROVE","details":{"order_id":"PO-2026-JLTJ5Y"}}
